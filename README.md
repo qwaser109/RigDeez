@@ -1,4 +1,6 @@
-
+Building this shit so you don't have to worry about pushing a bunch
+of buttons to verify your bets at these damn casinos. 
+The AutoUnrigger.
 ## Features
 
 - Used ReactJs to write chrome extension
